@@ -1,0 +1,14 @@
+{
+   "ten":[
+      {
+         "filename":"PixysOS-v3.02-dummy-OFFICIAL-20200111-231523.zip",
+         "has_delta": false
+      }
+   ],
+   "ten_gapps":[
+      {
+         "filename":"PixysOS-v3.02-GAPPS-dummy-OFFICIAL-20200111-192922.zip",
+         "has_delta": false
+      }
+   ]
+}
